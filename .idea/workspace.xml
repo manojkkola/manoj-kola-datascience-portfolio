@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec479dfd-ad43-4786-a286-c1d4da818a35" name="Changes" comment="Commit Update Project_1">
-      <change beforePath="$PROJECT_DIR$/Projects/Project_2_Display_Current_Weather/Kola_Week_12_Exit.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project_2_Display_Current_Weather/Kola_Week_12_Invalid_Choice_Error.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project_2_Display_Current_Weather/Kola_Week_12_Invalid_City_Error.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project_2_Display_Current_Weather/Kola_Week_12_Invalid_Units_Choice_Error.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project_2_Display_Current_Weather/Kola_Week_12_Invalid_Zip_Error.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project_2_Display_Current_Weather/Kola_Week_12_Output_Celsius.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project_2_Display_Current_Weather/Kola_Week_12_Output_Fahrenheit.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/Project_2_Display_Current_Weather/Kola_Week_12_Output_Kelvin.jpg" beforeDir="false" />
+    <list default="true" id="ec479dfd-ad43-4786-a286-c1d4da818a35" name="Changes" comment="Commit Update Project_2">
+      <change beforePath="$PROJECT_DIR$/Projects/Project_3_Missed Bias in the Tuskegee Syphilis Study/Week_10_Writing_Assignment.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783204371883</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Commit Update Project_2">
+      <option name="closed" value="true" />
+      <created>1783204773296</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1783204773296</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,6 +216,7 @@
     <MESSAGE value="Commit Project_9" />
     <MESSAGE value="Commit ReadMe Project_1" />
     <MESSAGE value="Commit Update Project_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Update Project_1" />
+    <MESSAGE value="Commit Update Project_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Update Project_2" />
   </component>
 </project>
