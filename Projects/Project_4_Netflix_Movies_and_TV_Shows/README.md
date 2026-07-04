@@ -22,9 +22,9 @@ The dataset contains metadata for thousands of Netflix titles, including title, 
 ## Contents
 | File | Description |
 |---|---|
-| `DSC530_Manoj_Kola_Final_Project_Week_11_Part_1.ipynb` | Jupyter notebook with data cleaning, EDA, hypothesis testing, and modeling code |
-| `DSC530_Manoj_Kola_Final_Project_Week_11_Part_1.pdf` | Rendered PDF of the analysis notebook |
-| `DSC530_Manoj_Kola_Final_Project_Week_11_Part_2.pdf` | Final project narrative and write-up of findings |
+| `Netflix_Movies_and_TV_Shows_Code.ipynb` | Jupyter notebook with data cleaning, EDA, hypothesis testing, and modeling code |
+| `Netflix_Movies_and_TV_Shows_Code.pdf` | Rendered PDF of the analysis notebook |
+| `Netflix_Movies_and_TV_Shows_Project_Narrative.pdf` | Final project narrative and write-up of findings |
 
 ## Tools & Methods
 Python, pandas, Exploratory Data Analysis, hypothesis testing, linear regression, Random Forest classification, K-Means clustering, PCA
