@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec479dfd-ad43-4786-a286-c1d4da818a35" name="Changes" comment="Commit Update Project_3" />
+    <list default="true" id="ec479dfd-ad43-4786-a286-c1d4da818a35" name="Changes" comment="Commit Update Project_3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Project_3_Missed Bias in the Tuskegee Syphilis Study/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Project_3_Missed Bias in the Tuskegee Syphilis Study/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -198,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783205500196</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Commit Update Project_3">
+      <option name="closed" value="true" />
+      <created>1783205764124</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1783205764124</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

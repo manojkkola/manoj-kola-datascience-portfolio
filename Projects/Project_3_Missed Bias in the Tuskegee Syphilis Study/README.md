@@ -21,7 +21,7 @@ Bias in research isn't only a statistical or methodological concern — left unc
 ## Contents
 | File | Description |
 |---|---|
-| `Week_10_Writing_Assignment.docx` | Full written case study analysis of bias in the Tuskegee Syphilis Study |
+| `Missed Bias in the Tuskegee Syphilis Study.pdf` | Full written case study analysis of bias in the Tuskegee Syphilis Study |
 
 ## Tools & Methods
 Critical analysis, research ethics evaluation, academic writing
