@@ -1,5 +1,7 @@
 # Manoj Kola — Data Science Portfolio
 
+**🔗 Live portfolio: [manojkkola.github.io/manoj-kola-datascience-portfolio](https://manojkkola.github.io/manoj-kola-datascience-portfolio/)**
+
 A curated portfolio of data science projects showcasing work in machine learning, analytics, visualization, and workflow design. Includes end-to-end solutions built during my MS in Data Science program.
 
 ## Projects
@@ -21,6 +23,7 @@ A curated portfolio of data science projects showcasing work in machine learning
 ```
 manoj-kola-datascience-portfolio/
 ├── README.md
+├── index.html
 └── Projects/
     ├── Project_1_Skin_Cancer_from_Sunscreen/
     ├── Project_2_Display_Current_Weather/
@@ -34,4 +37,6 @@ manoj-kola-datascience-portfolio/
 ```
 
 ## Contact
-[LinkedIn / email / other links]
+- Email: [manojkola_218@yahoo.co.in](mailto:manojkola_218@yahoo.co.in)
+- LinkedIn: [linkedin.com/in/manoj-kumar-kola](https://www.linkedin.com/in/manoj-kumar-kola-4a247333/)
+- Portfolio: [manojkkola.github.io/manoj-kola-datascience-portfolio](https://manojkkola.github.io/manoj-kola-datascience-portfolio/)
