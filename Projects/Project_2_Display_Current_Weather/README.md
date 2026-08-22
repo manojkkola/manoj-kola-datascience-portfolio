@@ -31,8 +31,15 @@ A command-line Python application that connects to the OpenWeatherMap API to fet
 ## Tools & Methods
 Python, REST API integration (OpenWeatherMap Geocoding + Current Weather APIs), input validation, error handling
 
-## Note
-The current script has an API key hardcoded directly in the source file. Since this repo is public, that key is exposed to anyone who views the file. It's worth regenerating the key on OpenWeatherMap and loading it via an environment variable (e.g., `os.environ["OWM_API_KEY"]`) instead of committing it directly.
+## Setup
+This script reads your OpenWeatherMap API key from an environment variable rather than hardcoding it, so it's safe to keep in a public repo. To run it:
+1. Get a free API key at [openweathermap.org/api](https://home.openweathermap.org/api_keys).
+2. Set it as an environment variable before running the script:
+   ```bash
+   export OWM_API_KEY=your_key_here      # macOS/Linux
+   setx OWM_API_KEY your_key_here        # Windows
+   ```
+3. Run the script: `python Live_Weather_Prediction_Project.py`
 
 ## Author
 Manoj Kumar Kola

@@ -7,9 +7,18 @@
 
 # Purpose: An application to interact with a web service to obtain weather data.
 
+import os
+import sys
 import requests
 
-API_KEY="a6c059c29b01f84db321a0832e7ac41e"
+API_KEY = os.environ.get("OWM_API_KEY")
+if not API_KEY:
+    sys.exit(
+        "Error: OWM_API_KEY environment variable not set.\n"
+        "Get a free API key at https://home.openweathermap.org/api_keys and set it, e.g.:\n"
+        "  export OWM_API_KEY=your_key_here   (macOS/Linux)\n"
+        "  setx OWM_API_KEY your_key_here      (Windows)"
+    )
 geo_base_url = "http://api.openweathermap.org/geo/1.0/"
 lat_long_base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
