@@ -1,4 +1,4 @@
-# Manoj Kola — Data Science Portfolio
+# Manoj Kumar Kola — Data Science Portfolio
 
 **🔗 Live portfolio: [manojkkola.github.io/manoj-kola-datascience-portfolio](https://manojkkola.github.io/manoj-kola-datascience-portfolio/)**
 
@@ -17,7 +17,7 @@ A curated portfolio of data science projects showcasing work in machine learning
 | 7 | [Predicting Customer Churn (Predictive Analytics Approach)](./Projects/Project_7_Predicting_Customer_Churn) | A full predictive analytics pipeline identifying at-risk telecom customers, expanding on churn prediction with a more advanced modeling approach. | Python, predictive analytics, machine learning |
 | 8 | [Childcare in America](./Projects/Project_8_Childcare_in_America) | A data storytelling project analyzing the National Database of Childcare Prices to visualize affordability trends across the U.S. | Python, data visualization, data storytelling |
 | 9 | [Predicting Stroke Risk Using Machine Learning](./Projects/Project_9_Predicting_Stroke_Risk_Using_Machine_Learning) | A capstone project building a machine learning model to identify at-risk stroke patients based on demographic and health factors. | Python, machine learning, healthcare analytics |
-| 10 | *Coming soon* | Not yet finalized — will be added once determined. | — |
+| 10 | [Amazon Sales Performance Analysis](./Projects/Project_10_Amazon_Sales_Performance_Analysis) | Tests whether non-transactional factors (category, region, payment method, salesperson, timing) can predict high-value Amazon orders, and quantifies how much predictive signal is lost by excluding transaction-size fields. | Python, machine learning, data leakage analysis |
 
 ## Repository Structure
 ```
@@ -33,7 +33,8 @@ manoj-kola-datascience-portfolio/
     ├── Project_6_Telecommunications_Company/
     ├── Project_7_Predicting_Customer_Churn/
     ├── Project_8_Childcare_in_America/
-    └── Project_9_Predicting_Stroke_Risk_Using_Machine_Learning/
+    ├── Project_9_Predicting_Stroke_Risk_Using_Machine_Learning/
+    └── Project_10_Amazon_Sales_Performance_Analysis/
 ```
 
 ## Contact
