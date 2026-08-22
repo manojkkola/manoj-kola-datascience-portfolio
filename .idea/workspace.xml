@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec479dfd-ad43-4786-a286-c1d4da818a35" name="Changes" comment="Updated all ReadMe's">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ec479dfd-ad43-4786-a286-c1d4da818a35" name="Changes" comment="Updated all the filenames" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -288,7 +286,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787365209535</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Updated all the filenames">
+      <option name="closed" value="true" />
+      <created>1787365936570</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1787365936570</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -320,6 +326,7 @@
     <MESSAGE value="update contact display color" />
     <MESSAGE value="Project_10" />
     <MESSAGE value="Updated all ReadMe's" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated all ReadMe's" />
+    <MESSAGE value="Updated all the filenames" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated all the filenames" />
   </component>
 </project>

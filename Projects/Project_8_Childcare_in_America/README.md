@@ -25,16 +25,16 @@ The write-up highlights four levers commonly cited by researchers and advocates:
 ## Contents
 | File | Description |
 |---|---|
-| `DSC640_Manoj_Kola_Term_Project_Milestone_1.ipynb` / `.pdf` | Milestone 1: data selection and initial exploration |
-| `DSC640_Manoj_Kola_Term_Project_Milestone_2.ipynb` / `.pdf` | Milestone 2: data cleaning and exploratory analysis |
-| `DSC640_Manoj_Kola_Term_Project_Milestone_3_Medium_1.pptx` | Medium 1: policymaker-facing slide deck |
-| `DSC640_Manoj_Kola_Term_Project_Milestone_3_Medium_2.ipynb` / `.pdf` | Medium 2: interactive analyst dashboard notebook |
-| `DSC640_Manoj_Kola_Term_Project_Milestone_3_Medium_3.ipynb` / `.pdf` | Medium 3: general-public written narrative notebook |
-| `DSC640_Manoj_Kola_Term_Project_Milestone_4.docx` | Milestone 4: written project narrative |
-| `DSC640_Manoj_Kola_Term_Project_Milestone_5_Medium_1.pptx` | Final Medium 1 deck (revised) |
-| `DSC640_Manoj_Kola_Term_Project_Milestone_5_Medium_2.ipynb` / `.pdf` | Final Medium 2 dashboard (revised) |
-| `DSC640_Manoj_Kola_Term_Project_Milestone_5_Medium_3.ipynb` / `.pdf` | Final Medium 3 narrative (revised) |
-| `DSC640_Manoj_Kola_Term_Project_Milestone_5_Final_Paper.docx` | Final written report |
+| `Childcare_in_America_Milestone_1.ipynb` / `.pdf` | Milestone 1: data selection and initial exploration |
+| `Childcare_in_America_Milestone_2.ipynb` / `.pdf` | Milestone 2: data cleaning and exploratory analysis |
+| `Childcare_in_America_Milestone_3_Medium_1.pptx` | Medium 1: policymaker-facing slide deck |
+| `Childcare_in_America_Milestone_3_Medium_2.ipynb` / `.pdf` | Medium 2: interactive analyst dashboard notebook |
+| `Childcare_in_America_Milestone_3_Medium_3.ipynb` / `.pdf` | Medium 3: general-public written narrative notebook |
+| `Childcare_in_America_Milestone_4.docx` | Milestone 4: written project narrative |
+| `Childcare_in_America_Milestone_5_Medium_1.pptx` | Final Medium 1 deck (revised) |
+| `Childcare_in_America_Milestone_5_Medium_2.ipynb` / `.pdf` | Final Medium 2 dashboard (revised) |
+| `Childcare_in_America_Milestone_5_Medium_3.ipynb` / `.pdf` | Final Medium 3 narrative (revised) |
+| `Childcare_in_America_Milestone_5_Final_Paper.docx` | Final written report |
 | `nationaldatabaseofchildcareprices.xlsx` | Source dataset (U.S. DOL / ICF) |
 
 ## Tools & Methods

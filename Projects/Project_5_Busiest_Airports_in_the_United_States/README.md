@@ -33,11 +33,11 @@ The three sources are joined on **City** and **State** as the common key and mer
 ## Contents
 | File | Description |
 |---|---|
-| `DSC540_Manoj_Kola_Project_Milestone_1.docx` | Data source selection, relationships, project plan, and ethical considerations |
-| `DSC540_Manoj_Kola_Project_Milestone_2.ipynb` / `.pdf` | Extraction and cleaning of the first data source |
-| `DSC540_Manoj_Kola_Project_Milestone_3.ipynb` / `.pdf` | Extraction and cleaning of the second data source |
-| `DSC540_Manoj_Kola_Project_Milestone_4.ipynb` / `.pdf` | Extraction and cleaning of the third data source |
-| `DSC540_Manoj_Kola_Project_Milestone_5.ipynb` / `.pdf` | Final database merge, SQL joins, and visualization notebook |
+| `Busiest_Airports_in_the_United_States_Milestone_1.docx` | Data source selection, relationships, project plan, and ethical considerations |
+| `Busiest_Airports_in_the_United_States_Milestone_2.ipynb` / `.pdf` | Extraction and cleaning of the first data source |
+| `Busiest_Airports_in_the_United_States_Milestone_3.ipynb` / `.pdf` | Extraction and cleaning of the second data source |
+| `Busiest_Airports_in_the_United_States_Milestone_4.ipynb` / `.pdf` | Extraction and cleaning of the third data source |
+| `Busiest_Airports_in_the_United_States_Milestone_5.ipynb` / `.pdf` | Final database merge, SQL joins, and visualization notebook |
 
 ## Tools & Methods
 Python, pandas, SQLite, SQL joins, web scraping, REST API integration (OpenWeatherMap), matplotlib, data blending across CSV/API/HTML sources

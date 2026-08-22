@@ -36,11 +36,11 @@ The dataset lacks several clinically important variables (actual blood pressure 
 ## Contents
 | File | Description |
 |---|---|
-| `DSC680_Manoj_Kola_Week_01_Project_1_Milestone_1.docx` | Milestone 1: project proposal and business problem framing |
-| `DSC680_Manoj_Kola_Week_03_Project_1_Milestone_2.docx` | Milestone 2: literature review and methodology plan |
-| `DSC680_Manoj_Kola_Project_1.ipynb` / `.pdf` | Full analysis notebook: EDA, preprocessing, modeling, and evaluation |
-| `DSC680_Manoj_Kola_Final_White_Paper.docx` | Final white paper: business problem, methods, findings, ethics, and recommendations |
-| `DSC680_Manoj_Kola_Presentation_Script_and_QA.docx` | Presentation script and anticipated audience Q&A |
+| `Predicting_Stroke_Risk_Using_Machine_Learning_Milestone_1.docx` | Milestone 1: project proposal and business problem framing |
+| `Predicting_Stroke_Risk_Using_Machine_Learning_Milestone_2.docx` | Milestone 2: literature review and methodology plan |
+| `Predicting_Stroke_Risk_Using_Machine_Learning.ipynb` / `.pdf` | Full analysis notebook: EDA, preprocessing, modeling, and evaluation |
+| `Predicting_Stroke_Risk_Using_Machine_Learning_Final_White_Paper.docx` | Final white paper: business problem, methods, findings, ethics, and recommendations |
+| `Predicting_Stroke_Risk_Using_Machine_Learning_Presentation_Script_and_QA.docx` | Presentation script and anticipated audience Q&A |
 | `Stroke_Prediction_Presentation.pptx` | Final presentation slides |
 
 ## Tools & Methods

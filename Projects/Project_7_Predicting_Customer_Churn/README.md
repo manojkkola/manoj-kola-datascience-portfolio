@@ -30,12 +30,12 @@ The Telco Customer Churn dataset (7,043 customers, ~26.6% churn rate) with demog
 ## Contents
 | File | Description |
 |---|---|
-| `DSC630_Manoj_Kola_Term_Project_Milestone_3.ipynb` / `.pdf` | Milestone 3: EDA, cleaning, and initial model benchmarking |
-| `DSC630_Manoj_Kola__Project_Milestone_2.docx` | Milestone 2: written project narrative |
-| `DSC630_Manoj_Kola_Term_Project_Milestone_4.ipynb` / `.pdf` | Milestone 4: hyperparameter tuning and advanced evaluation |
-| `DSC630_Manoj_Kola_Final_Project_Milestone_5.ipynb` / `.pdf` | Final notebook: full modeling pipeline, interpretation, and recommendations |
-| `DSC630_Manoj_Kola_Final_Paper.docx` | Final written report |
-| `DSC630_Manoj_Kola_Final_Presentation.pptx` | Final presentation slides |
+| `Predicting_Customer_Churn_Milestone_3.ipynb` / `.pdf` | Milestone 3: EDA, cleaning, and initial model benchmarking |
+| `Predicting_Customer_Churn_Milestone_2.docx` | Milestone 2: written project narrative |
+| `Predicting_Customer_Churn_Milestone_4.ipynb` / `.pdf` | Milestone 4: hyperparameter tuning and advanced evaluation |
+| `Predicting_Customer_Churn_Final_Project_Milestone_5.ipynb` / `.pdf` | Final notebook: full modeling pipeline, interpretation, and recommendations |
+| `Predicting_Customer_Churn_Final_Paper.docx` | Final written report |
+| `Predicting_Customer_Churn_Final_Presentation.pptx` | Final presentation slides |
 | `Telco_Customer_Churn.csv` | Source dataset (Kaggle) |
 
 ## Tools & Methods

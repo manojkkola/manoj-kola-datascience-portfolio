@@ -22,12 +22,12 @@ The project was completed across three milestones:
 ## Contents
 | File | Description |
 |---|---|
-| `DSC550_Manoj_Kola_Term_Project_Milestone_1.ipynb` / `.pdf` | Milestone 1: data selection, EDA, and graphical analysis |
-| `DSC550_Manoj_Kola_Term_Project_Milestone_2.ipynb` / `.pdf` | Milestone 2: data cleaning, transformation, and feature engineering |
-| `DSC550_Manoj_Kola_Term_Project_MIlestone_3.ipynb` / `.pdf` | Milestone 3: model selection, training, and evaluation |
-| `DSC550_Manoj_Kola_Final_Project.ipynb` | Final combined notebook (all milestones) |
-| `DSC550_Manoj_Kola_Final_Project.pdf` | Rendered PDF of the final notebook |
-| `DSC550_Manoj_Kola_Final_Project_Write_Up.docx` | Final written project report |
+| `Telecommunications_Company_Milestone_1.ipynb` / `.pdf` | Milestone 1: data selection, EDA, and graphical analysis |
+| `Telecommunications_Company_Milestone_2.ipynb` / `.pdf` | Milestone 2: data cleaning, transformation, and feature engineering |
+| `Telecommunications_Company_Milestone_3.ipynb` / `.pdf` | Milestone 3: model selection, training, and evaluation |
+| `Telecommunications_Company_Final_Project.ipynb` | Final combined notebook (all milestones) |
+| `Telecommunications_Company_Final_Project.pdf` | Rendered PDF of the final notebook |
+| `Telecommunications_Company_Final_Project_Write_Up.docx` | Final written project report |
 | `Telco_Customer_Churn.csv` | Source dataset (Kaggle) |
 
 ## Tools & Methods
