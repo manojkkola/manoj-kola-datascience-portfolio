@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec479dfd-ad43-4786-a286-c1d4da818a35" name="Changes" comment="Add portfolio landing page">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/manoj-kola-datascience-portfolio.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="ec479dfd-ad43-4786-a286-c1d4da818a35" name="Changes" comment="Updated all ReadMe's">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,7 +256,39 @@
       <option name="project" value="LOCAL" />
       <updated>1785461518940</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="update contact display n removed idea folder">
+      <option name="closed" value="true" />
+      <created>1785462710458</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1785462710458</updated>
+    </task>
+    <task id="LOCAL-00025" summary="update contact display color">
+      <option name="closed" value="true" />
+      <created>1785462989935</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1785462989935</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Project_10">
+      <option name="closed" value="true" />
+      <created>1787359630649</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1787359630649</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Updated all ReadMe's">
+      <option name="closed" value="true" />
+      <created>1787365209532</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1787365209535</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -292,6 +316,10 @@
     <MESSAGE value="Commit Update Project_3" />
     <MESSAGE value="Commit Update Project_4" />
     <MESSAGE value="Add portfolio landing page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add portfolio landing page" />
+    <MESSAGE value="update contact display n removed idea folder" />
+    <MESSAGE value="update contact display color" />
+    <MESSAGE value="Project_10" />
+    <MESSAGE value="Updated all ReadMe's" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated all ReadMe's" />
   </component>
 </project>
